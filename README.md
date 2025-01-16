@@ -1,2 +1,2 @@
-# test-repo
-I am using this repo just as a test for the github and my VS code
+#README.md 
+This is my first repository
